@@ -1,4 +1,4 @@
-## Hey 👋  
+### Hi there 👋  
 
 I’m Matthew, a fourth-year electrical engineering (EE) student at [McMaster University](https://www.eng.mcmaster.ca/).
 
